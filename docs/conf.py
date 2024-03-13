@@ -1,1 +1,1 @@
-html_logo = "images/logo.svg"
+html_logo = "images/bigr_600dpi.tiff"
