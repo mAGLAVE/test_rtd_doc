@@ -1,4 +1,4 @@
-Installation on Flamingo, the GR's computing cluster
+Installation
 =====
 .. _Installation of pipeline:
 
