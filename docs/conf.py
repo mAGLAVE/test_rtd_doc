@@ -1,1 +1,1 @@
-html_logo = "images/bigr_600dpi.tiff"
+html_logo = "images/bigr_mini.png"
