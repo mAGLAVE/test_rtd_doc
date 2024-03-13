@@ -20,5 +20,3 @@ Contents
 
    usage
    api
-   installation
-
